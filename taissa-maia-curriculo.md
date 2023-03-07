@@ -6,7 +6,7 @@ Endereço: Fortaleza - CE
 
 [E-mail](taissa.m@outlook.com)
 
-[LinkedIn](https://www.linkedin.com/in/taissa-maia/)
+[LinkedIn](https://www.linkedin.com/in/tssmaia/)
 
 
 
