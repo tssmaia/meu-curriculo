@@ -57,7 +57,7 @@ _Serviços fornecidos_:
 
 
 
-## Soft Skills :raising_hand_woman:
+## Soft Skill :raising_hand_woman:
 
 - Compromisso;
 - Responsabilidade;
@@ -74,7 +74,7 @@ _Serviços fornecidos_:
 
 
 
-## Idiomas Falados :speaking_head:
+## Idioma Falado :speaking_head:
 
 **Português** - Fluente
 
@@ -92,7 +92,7 @@ _Serviços fornecidos_:
 
 
 
-## Cursos Complementares :book:
+## Curso Complementar :book:
 
 **Curso de Inglês** | Casa  de Cultura Britânica - UFC, Fortaleza - CE | 2 anos
 
